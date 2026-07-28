@@ -140,24 +140,30 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaghavendraPedada-1765&theme=github_dark" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaghavendraPedada-1765&theme=github_dark" height="160"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaghavendraPedada-1765&theme=github_dark" height="160"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaghavendraPedada-1765&theme=github_dark" height="160"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaghavendraPedada-1765&theme=github_dark&utcOffset=5.5" height="160"/>
+<!-- Streak stats - streak-stats.demolab.com is self-hosted & reliable -->
+<img src="https://streak-stats.demolab.com?user=RaghavendraPedada-1765&theme=dark&border_radius=6&ring=00FF41&fire=00BFFF&currStreakLabel=00FF41&background=0D0D0D&border=00FF41&dates=888888&sideLabels=00BFFF&sideNums=FFFFFF&currStreakNum=00FF41&stroke=00FF41" height="180" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RaghavendraPedada-1765&theme=matrix&border_radius=6&ring=00FF41&fire=00BFFF&currStreakLabel=00FF41&background=0D0D0D&border=00FF41&dates=AAAAAA&sideLabels=00BFFF&sideNums=FFFFFF&currStreakNum=00FF41" height="180" />
-
-</div>
-
-<div align="center">
-
+<!-- Activity graph - using github's own contribution calendar embed -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaghavendraPedada-1765&bg_color=0D0D0D&color=00FF41&line=00BFFF&point=FFFFFF&area=true&area_color=00FF4120&hide_border=false&border_color=00FF41&custom_title=CONTRIBUTION+MATRIX)
+
+</div>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║           SYSTEM STATS  ::  RaghavendraPedada-1765   ║
+╠══════════════════════════════════════════════════════╣
+║  Repositories   :  10        Stars Earned   :  0    ║
+║  Total Commits  :  84+       Languages      :  2    ║
+║  Longest Streak :  4 days    Active Since   :  2025 ║
+║  Primary Lang   :  Python    Secondary      :  JS   ║
+╚══════════════════════════════════════════════════════╝
+```
 
 </div>
 
