@@ -140,9 +140,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaghavendraPedada-1765&show_icons=true&theme=chartreuse-dark&border_radius=6&title_color=00FF41&icon_color=00BFFF&text_color=CCCCCC&bg_color=0D0D0D&border_color=00FF41" height="180" />
+<img src="https://github-stats.as93.net/api?user=RaghavendraPedada-1765&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=00FF41&title_color=00FF41&icon_color=00BFFF&text_color=CCCCCC&bg_color=0D0D0D" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavendraPedada-1765&layout=compact&theme=chartreuse-dark&border_radius=6&title_color=00FF41&text_color=CCCCCC&bg_color=0D0D0D&border_color=00BFFF" height="180" />
+<img src="https://github-stats.as93.net/api/top-langs/?user=RaghavendraPedada-1765&theme=dark&layout=compact&hide_border=false&border_color=00BFFF&title_color=00FF41&text_color=CCCCCC&bg_color=0D0D0D" height="180" />
 
 </div>
 
@@ -164,7 +164,19 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=RaghavendraPedada-1765&theme=matrix&no-frame=false&no-bg=true&margin-w=8&column=7)
+```
+[SYSTEM] Loading achievement badges...
+[OK] Internship @ Hindustan Shipyard Limited (HSL)
+[OK] TATA Cybersecurity Micro-Internship
+[OK] IBM / Coursera CI/CD OpenShift Certification
+[OK] Edge-AI Smart Mirror — Final Year Project (Active)
+[OK] Cognizant Technoverse Hackathon 2026 — "Invisible Patient" Ward System
+[OK] Cosmic RAG System — LLM + Vector DB Pipeline
+```
+
+**`[ SKILL ARSENAL ]`**
+
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css,nodejs,linux,git,github,raspberrypi,arduino,tensorflow,opencv,docker,mysql,vscode&theme=dark&perline=8" />
 
 </div>
 
