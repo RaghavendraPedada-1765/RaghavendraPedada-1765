@@ -140,9 +140,12 @@
 
 <div align="center">
 
-<img src="https://github-stats.as93.net/api?user=RaghavendraPedada-1765&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=00FF41&title_color=00FF41&icon_color=00BFFF&text_color=CCCCCC&bg_color=0D0D0D" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaghavendraPedada-1765&theme=github_dark" width="100%"/>
 
-<img src="https://github-stats.as93.net/api/top-langs/?user=RaghavendraPedada-1765&theme=dark&layout=compact&hide_border=false&border_color=00BFFF&title_color=00FF41&text_color=CCCCCC&bg_color=0D0D0D" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaghavendraPedada-1765&theme=github_dark" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaghavendraPedada-1765&theme=github_dark" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaghavendraPedada-1765&theme=github_dark" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaghavendraPedada-1765&theme=github_dark&utcOffset=5.5" height="160"/>
 
 </div>
 
