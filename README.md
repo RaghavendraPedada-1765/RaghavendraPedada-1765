@@ -1,66 +1,80 @@
 <div align="center">
 
-<!-- Animated gradient header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:FFD93D,100:6BCB77&height=200&section=header&text=PEDADA%20RAGHAVENDRA&fontSize=42&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=IoT%20%7C%20AI%2FML%20%7C%20Cybersecurity%20%7C%20Full-Stack&descAlignY=58&descSize=18" />
+<!-- Techy header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00FF41,100:00BFFF&height=200&section=header&text=PEDADA%20RAGHAVENDRA&fontSize=42&fontAlignY=35&fontColor=00FF41&animation=blinking&desc=IoT%20%7C%20Edge%20AI%20%7C%20Cybersecurity%20%7C%20Embedded%20Systems&descAlignY=58&descSize=17&descColor=00BFFF" />
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFD93D&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(IoT+%7C+Cyber+%7C+Blockchain)+%40+AIET;Edge+AI+%7C+Embedded+Systems+Engineer;Building+smart+things+at+the+intersection+of+hardware+%26+AI;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<!-- Typing animation - terminal style -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=+%24+whoami+--+Raghavendra+Pedada;+%24+cat+skills.txt+%7C+grep+IoT+%7C+AI+%7C+Cyber;+%24+./build+edge-ai-smart-mirror.sh;+%24+ssh+root%40raspberry-pi-4b;+%24+sudo+apt+install+ambition+--upgrade" alt="Typing SVG" />
+</a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaghavendraPedada-1765)
+[![LinkedIn](https://img.shields.io/badge/_%20LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=0D0D0D)](https://www.linkedin.com/in/raghavendra-pedada-baa349356/)
+[![Gmail](https://img.shields.io/badge/_%20Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=0D0D0D)](mailto:raghavendrapedadaa@gmail.com)
+[![GitHub](https://img.shields.io/badge/_%20GitHub-39FF14?style=for-the-badge&logo=github&logoColor=0D0D0D)](https://github.com/RaghavendraPedada-1765)
+
+![Profile Views](https://komarev.com/ghpvc/?username=RaghavendraPedada-1765&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## `> whoami`
 
-```yaml
-name       : Pedada Raghavendra
-role       : B.Tech CSE Student (IoT • Cybersecurity • Blockchain)
-university : Alva's Institute of Engineering and Technology (VTU)
-cgpa       : 8.14 / 10  |  Graduating 2027
-location   : Mangalore / Visakhapatnam, India
+```bash
+┌──(raghavendra㉿aiet)-[~/life]
+└─$ cat about.txt
+
+  NAME       :  Pedada Raghavendra
+  ROLE       :  B.Tech CSE — IoT • Cybersecurity • Blockchain
+  UNIVERSITY :  Alva's Institute of Engineering and Technology (VTU)
+  CGPA       :  8.14 / 10  |  Graduating 2027
+  LOCATION   :  Mangalore / Visakhapatnam, India
+  STATUS     :  [ OPEN TO INTERNSHIPS & COLLABORATIONS ]
 ```
 
-- 🔭 **Final Year Project:** Edge-AI Smart Mirror for Health & Wellness Monitoring *(Raspberry Pi 4B + MediaPipe + TFLite)*
-- 🏭 **Internship Experience:** Hindustan Shipyard Limited (HSL), Visakhapatnam — Disasters Management & Navigation Systems
-- 🔐 **Cybersecurity:** TATA Micro-Internship | Cryptography & Network Security coursework
-- ⚙️ **DevOps:** IBM/Coursera CI/CD OpenShift pipeline certification
-- 💡 **Startup Idea:** [ReasonCode](#) — Duolingo-style coding education with anime aesthetics & AI evaluation layer
-- 🌐 **Looking For:** Internships & Projects in IoT, Edge AI, Cybersecurity, Full-Stack Dev
+```bash
+┌──(raghavendra㉿aiet)-[~/life]
+└─$ cat highlights.log
+
+  [✓] Final Year Project  →  Edge-AI Smart Mirror (RPi 4B + MediaPipe + TFLite)
+  [✓] Internship          →  Hindustan Shipyard Limited (HSL), Visakhapatnam
+                              └─ Disasters Management & Navigation Systems
+  [✓] Cybersecurity       →  TATA Micro-Internship | CNS Coursework (Module 1–5)
+  [✓] DevOps              →  IBM/Coursera CI/CD OpenShift Pipeline Certification
+  [✓] Startup Concept     →  ReasonCode — Duolingo × Coding × Anime Dungeons × AI
+  [*] Currently Exploring →  RAG Systems, Edge Inference, LLM APIs, Blockchain DApps
+```
 
 ---
 
-## 🛠️ Tech Stack
+## `> ls -la tech_stack/`
 
 <div align="center">
 
-**Embedded & IoT**
+**`[ EMBEDDED & IoT ]`**
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
 
-**AI / ML**
+**`[ AI / ML / EDGE ]`**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 
-**Web & Full-Stack**
+**`[ WEB & FULL-STACK ]`**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Security & DevOps**
+**`[ SECURITY & DEVOPS ]`**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -71,67 +85,110 @@ location   : Mangalore / Visakhapatnam, India
 
 ---
 
-## 📌 Featured Projects
+## `> cat projects.json`
+
+```json
+{
+  "projects": [
+    {
+      "id": "01",
+      "name": "Edge-AI Smart Mirror",
+      "repo": "https://github.com/RaghavendraPedada-1765",
+      "desc": "Health & wellness monitoring using MediaPipe pose estimation + TFLite on Raspberry Pi 4B",
+      "stack": ["Python", "TFLite", "MediaPipe", "OpenCV", "RPi4B"],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "02",
+      "name": "Smart Farming System",
+      "repo": "https://github.com/RaghavendraPedada-1765/smart-farming",
+      "desc": "IoT precision agriculture with real-time sensor data collection and automated alerts",
+      "stack": ["Python", "IoT", "ESP32", "Sensors"],
+      "status": "COMPLETE"
+    },
+    {
+      "id": "03",
+      "name": "Cosmic RAG System",
+      "repo": "https://github.com/RaghavendraPedada-1765/Cosmic-RAG-System",
+      "desc": "Retrieval-Augmented Generation pipeline for intelligent document Q&A",
+      "stack": ["Python", "RAG", "LLM", "Vector DB"],
+      "status": "COMPLETE"
+    },
+    {
+      "id": "04",
+      "name": "Virtual Queue Manager",
+      "repo": "https://github.com/RaghavendraPedada-1765/virtual_queue",
+      "desc": "Digital queue system to eliminate physical waiting lines in public services",
+      "stack": ["Python", "Web"],
+      "status": "COMPLETE"
+    },
+    {
+      "id": "05",
+      "name": "To-Do CLI",
+      "repo": "https://github.com/RaghavendraPedada-1765/to-do-list-",
+      "desc": "Lightweight task manager with Python backend",
+      "stack": ["Python"],
+      "status": "COMPLETE"
+    }
+  ]
+}
+```
+
+---
+
+## `> ./stats.sh --user RaghavendraPedada-1765`
 
 <div align="center">
 
-| 🔬 Project | 📝 Description | 🏷️ Stack |
-|---|---|---|
-| [🪞 Edge-AI Smart Mirror](https://github.com/RaghavendraPedada-1765) | Health & wellness monitoring mirror using pose estimation, TFLite models, and real-time OpenCV on Raspberry Pi 4B | `Python` `TFLite` `MediaPipe` `RPi` |
-| [🌾 Smart Farming](https://github.com/RaghavendraPedada-1765/smart-farming) | IoT-based precision agriculture system with sensor data collection and automated alerts | `Python` `IoT` `Sensors` |
-| [🌌 Cosmic RAG System](https://github.com/RaghavendraPedada-1765/Cosmic-RAG-System) | Retrieval-Augmented Generation pipeline for intelligent document querying | `Python` `RAG` `LLM` |
-| [🏥 Virtual Queue](https://github.com/RaghavendraPedada-1765/virtual_queue) | Digital queue management system to eliminate physical waiting lines | `Python` `Web` |
-| [✅ To-Do List](https://github.com/RaghavendraPedada-1765/to-do-list-) | Clean task manager with Python backend | `Python` |
+<img src="https://github-readme-stats.vercel.app/api?username=RaghavendraPedada-1765&show_icons=true&theme=chartreuse-dark&border_radius=6&title_color=00FF41&icon_color=00BFFF&text_color=CCCCCC&bg_color=0D0D0D&border_color=00FF41" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavendraPedada-1765&layout=compact&theme=chartreuse-dark&border_radius=6&title_color=00FF41&text_color=CCCCCC&bg_color=0D0D0D&border_color=00BFFF" height="180" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RaghavendraPedada-1765&theme=matrix&border_radius=6&ring=00FF41&fire=00BFFF&currStreakLabel=00FF41&background=0D0D0D&border=00FF41&dates=AAAAAA&sideLabels=00BFFF&sideNums=FFFFFF&currStreakNum=00FF41" height="180" />
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaghavendraPedada-1765&bg_color=0D0D0D&color=00FF41&line=00BFFF&point=FFFFFF&area=true&area_color=00FF4120&hide_border=false&border_color=00FF41&custom_title=CONTRIBUTION+MATRIX)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## `> cat achievements.log`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaghavendraPedada-1765&show_icons=true&theme=radical&border_radius=12&title_color=FFD93D&icon_color=FF6B6B&text_color=ffffff&bg_color=0d1117&border_color=FF6B6B" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavendraPedada-1765&layout=compact&theme=radical&border_radius=12&title_color=FFD93D&text_color=ffffff&bg_color=0d1117&border_color=6BCB77" height="180" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RaghavendraPedada-1765&theme=radical&border_radius=12&ring=FFD93D&fire=FF6B6B&currStreakLabel=6BCB77&background=0d1117&border=FF6B6B" height="180" />
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaghavendraPedada-1765&bg_color=0d1117&color=FFD93D&line=FF6B6B&point=6BCB77&area=true&hide_border=false&border_color=FF6B6B)
+![Trophies](https://github-profile-trophy.vercel.app/?username=RaghavendraPedada-1765&theme=matrix&no-frame=false&no-bg=true&margin-w=8&column=7)
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## `> ping raghavendra --connect`
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=RaghavendraPedada-1765&theme=radical&no-frame=false&no-bg=false&margin-w=8&column=7)
+```
+Sending packets to Raghavendra...
+Reply from LinkedIn : bytes=32  time<1ms  TTL=64
+Reply from Gmail    : bytes=32  time<1ms  TTL=64
+```
 
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavendra-pedada-baa349356/)
-[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavendrapedadaa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/_%20Connect_on_LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=0D0D0D)](https://www.linkedin.com/in/raghavendra-pedada-baa349356/)
+[![Email Me](https://img.shields.io/badge/_%20Send_a_Packet_(Email)-00BFFF?style=for-the-badge&logo=gmail&logoColor=0D0D0D)](mailto:raghavendrapedadaa@gmail.com)
 
 <br/>
 
-> *"Building at the intersection of hardware and intelligence — one sensor at a time."*
+```bash
+> "The best way to predict the future is to build it — one commit at a time."
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6BCB77,50:FFD93D,100:FF6B6B&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:00BFFF,100:0D0D0D&height=120&section=footer" />
 
 </div>
