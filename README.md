@@ -58,7 +58,7 @@ Git · Docker · Kubernetes · OpenShift · GitHub Actions · Tekton · pytest �
 ## Experience & learning
 
 - **IFB Automotive Private Limited, Bengaluru** — Software Intern (Sep 2026 – present). Built IFB Connect, the company's on-premises LAN messenger, and mapped the plant's end-to-end workflow.
-- **Tata Consultancy Services** — Cybersecurity micro-internship (2024): identity and access management and enterprise security best practices.
+- **Tata Consultancy Services** — Cybersecurity micro-internship (Mar 2025): identity and access management and enterprise security best practices.
 - **IBM Applied DevOps Engineering Professional Certificate** — plus 17 more Coursera certificates from IBM, Google and DeepLearning.AI.
 - **Cognizant Technoverse Hackathon 2026** — built “Invisible Patient”, a ward communication system for government hospitals.
 
